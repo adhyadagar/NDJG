@@ -1,6 +1,6 @@
 # NDJG
 Work done in my summer internship at IIT Kharagpur(in June 2019) under Dr.Saptarshi Ghosh.
-An interactive web automation framework to scrape data from National Judicial Data Grid using selenium and bs4.
+An interactive web automation framework to scrape data from National Judicial Data Grid (https://njdg.ecourts.gov.in/njdgnew/index.php) using selenium and bs4.
 
 
 Contains-
